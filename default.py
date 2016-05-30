@@ -102,7 +102,7 @@ def main_list(params):
         
     plugintools.add_item( 
         #action="", 
-        title="Alpha Centauri (2005)",
+        title="Alpha Centauri (2006)",
         url="plugin://plugin.video.youtube/playlist/PLBRf3zSvyQfQ11gb_6j7Dm164iRNx5U7J/",
         thumbnail=icon,
         fanart=fanart,
